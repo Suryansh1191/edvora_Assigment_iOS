@@ -1,10 +1,8 @@
 # edvora_Assigment_iOS
 edvora iOS Dev Assignment by Suryansh Bisen
 
+ 
 
-
-
-Video :-
 https://user-images.githubusercontent.com/69685349/173584332-bba0cc3b-4ec8-4b45-a462-0431657b79f1.mov
 
 
