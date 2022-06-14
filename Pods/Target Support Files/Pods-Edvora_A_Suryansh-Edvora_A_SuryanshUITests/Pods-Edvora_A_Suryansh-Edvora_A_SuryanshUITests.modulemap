@@ -1,0 +1,6 @@
+framework module Pods_Edvora_A_Suryansh_Edvora_A_SuryanshUITests {
+  umbrella header "Pods-Edvora_A_Suryansh-Edvora_A_SuryanshUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
