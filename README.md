@@ -1,6 +1,7 @@
 # edvora_Assigment_iOS
 edvora iOS Dev Assignment by Suryansh Bisen
 
+Here Are Some Screenshots of the App :-
 <img src = "https://user-images.githubusercontent.com/69685349/173580526-24cb3ffb-ec10-4366-bf97-9c1ca300094f.png" width="200" hight ="350">  
 <img src = "https://user-images.githubusercontent.com/69685349/173580562-ff240f18-2f90-42a3-aa86-ba24fa389a2b.png" width="200" hight ="350">  
 <img src = "https://user-images.githubusercontent.com/69685349/173580567-96053cee-493c-498f-9578-7ced7420c515.png" width="200" hight ="350">  
